@@ -2,7 +2,7 @@
 -- ThreeJSExporter.ms
 -- Exports geometry from 3ds max to Three.js models in ASCII JSON format v3
 -- By alteredq / http://alteredqualia.com
---
+-- Completed with Morph Targets option by Alex Mesesan
 --	2014.06.25
 --	Add vertex export from each frame
 -------------------------------------------------------------------------------------
